@@ -2,12 +2,9 @@
 <a href="https://reliable-alpaca-cfae32.netlify.app" target="_blank">
 <img src="https://user-images.githubusercontent.com/62440186/161758087-1b6b5830-ea72-49c3-bf80-356fdd9aa150.png" alt="" width="800" height="500"/>
 </a>
-<a href="https://reliable-alpaca-cfae32.netlify.app" target="_blank">Демо</a>
 </p>
+<p align="center"><a href="https://reliable-alpaca-cfae32.netlify.app" target="_blank">Демо</a></p>
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -20,21 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
