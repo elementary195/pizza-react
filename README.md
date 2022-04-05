@@ -1,7 +1,5 @@
-https://reliable-alpaca-cfae32.netlify.app
-
-<img src="https://user-images.githubusercontent.com/62440186/161758087-1b6b5830-ea72-49c3-bf80-356fdd9aa150.png" alt="" width="700" height="500"/>
-
+<img style="text-align: center" src="https://user-images.githubusercontent.com/62440186/161758087-1b6b5830-ea72-49c3-bf80-356fdd9aa150.png" alt="" width="800" height="500"/>
+<a style="text-align: center" href="https://reliable-alpaca-cfae32.netlify.app" target="_blank">Демо</a>
 
 # Getting Started with Create React App
 
